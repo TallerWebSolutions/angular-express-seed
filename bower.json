@@ -1,0 +1,26 @@
+{
+  "name": "Taller MEAN Seed",
+  "version": "0.0.0",
+  "homepage": "https://github.com/TallerWebSolutions/angular-express-seed",
+  "authors": [
+    "Lucas Constantino <lucas@taller.net.br>"
+  ],
+  "main": "app.js",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "AngularJS",
+    "MongoDB",
+    "Express",
+    "NodeJS"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
